@@ -37,8 +37,7 @@
 
 
 // Q29.
-// Output batayein.
-
+// Output batayein.
 
 
 // const user = {
